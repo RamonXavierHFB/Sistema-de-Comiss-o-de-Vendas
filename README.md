@@ -85,6 +85,8 @@ A utilização de **SweetAlert2** (`showPopup`, `showConfirmation`) é uma excel
 1.  **Configuração do Banco de Dados:**
       * Crie um banco de dados chamado `vendas` no seu servidor MySQL.
       * Crie as tabelas necessárias (ex: `funcionarios`, `vendas`).
+        TABELAS DISPONIVEIS NO   DataBase\schema.sql
+        
 2.  **Configuração da Conexão:**
       * No arquivo conexao.asp, altere as credenciais de conexão:
         ```asp
